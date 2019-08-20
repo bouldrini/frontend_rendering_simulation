@@ -1,0 +1,46 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Body
+$body-bg: #f8fafc;
+
+$default-line-height: 10px;
+$default-padding: 15px;
+
+// CUSTOM
+$grid-breakpoint-lg:1690px;
+$grid-breakpoint-md:1350px;
+$grid-breakpoint-sm:1020px;
+$grid-breakpoint-xs:500px;
+
+// BOOTSTRAP BREAKPOINTS
+//$grid-breakpoints: (
+//        xs: $grid-breakpoint-xs,
+//        sm: $grid-breakpoint-sm,
+//        md: $grid-breakpoint-md,
+//        lg: $grid-breakpoint-lg
+//);
+
+$computed-border-spacing:2.5px;
+$computed-batch-action-height: 35px;
+
+// Typography
+//$font-family-sans-serif: "Nunito", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$primary-color: #2b2828;
+$dimgrey:#2b2828;
+$secondary-color: #000000;
+$third-color: #00558B;
+$forth-color: #C72A2A;
+$fifth-color: #111111;
+$sixth-color: #DDDDDD;
+$seventh-color: #ffcde8;
+$eighth-color:#2b2828;
+
+$white: #FFFFFF;
+$black: #000000;
+$text-color: #222222;
+

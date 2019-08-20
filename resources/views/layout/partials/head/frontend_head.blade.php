@@ -1,0 +1,1 @@
+@include('layout.partials.head.general', [])
