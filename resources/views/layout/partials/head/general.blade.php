@@ -240,7 +240,6 @@
         .thumbnail {
             width: 100%;
             position:relative;
-            height:100%;
             border-radius: 0px;
         }
     }
