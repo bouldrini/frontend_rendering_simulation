@@ -12,3 +12,5 @@
 */
 
 Route::get('/', 'SimulationController@rendering');
+Route::get('/index_data', 'SimulationController@index_data');
+Route::get('/search_data', 'SimulationController@search_data');
